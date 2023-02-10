@@ -2,7 +2,13 @@
 <h1 align="center">Hi 👋, I'm SAKTHIRAJA</h1>
 <h3 align="center">A passionate frontend developer and learn the new technologies and so..</h3>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img align="left" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+
+<img align="right" alt="Coder GIF" height=200 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+<img align="center" alt="Coder GIF" height=200 width=250 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthiraja23&label=Profile%20views&color=0e75b6&style=flat" alt="sakthiraja23" /> </p>
 
